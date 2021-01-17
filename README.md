@@ -20,9 +20,13 @@ Matplotlib
 
 
 Algorithms :
+
 TF-IDF
+
 Cosine similarity 
+
 Used NLTK (natural language toolkit) for:
+
 breaking up sentences into words (tokenization): “have a nice day” tokenizes to a list of individual words: “have”, “a”, “nice”, “day”
 reducing words to their stem (stemming): “have” stems to “hav” which allows it to be matched with “having” (same stem)
 
